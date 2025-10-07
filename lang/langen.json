@@ -1,0 +1,6 @@
+{
+    "title": "Image Inpainting Demo",
+    "uploadLabel": "Upload Image",
+    "brushMode": "Brush",
+    "rectangleMode": "Rectangle"
+}

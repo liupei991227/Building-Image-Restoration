@@ -1,0 +1,15 @@
+canvas {
+    max-width: 100%;
+    border-radius: 5px;
+}
+.tooltip-inner {
+    max-width: 300px;
+    text-align: left;
+    font-size: 0.9rem;
+}
+#resultImages img {
+    margin: 5px;
+    width: calc(33.333% - 10px);
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
