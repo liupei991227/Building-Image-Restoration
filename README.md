@@ -32,19 +32,18 @@ You can:
 ```bash
 pip install torch torchvision transformers diffusers --upgrade
 pip install flask flask-cors pyngrok pillow
-
+```
 
 ### 2️⃣ Authenticate Hugging Face
 
 Before running the notebook, replace the placeholder with your own token:
-
 ```python
 YOUR_HF_TOKEN = "your_huggingface_token_here"
-
+```
 
 ## 🌐 Run Flask API
 ```bash
 python app.py
-
+```
 
 
